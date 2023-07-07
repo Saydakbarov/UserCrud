@@ -1,0 +1,42 @@
+export const UserData = [
+  {
+    id: 1,
+    name: "Jane",
+    lastName: "Coper",
+    company: "Apple",
+    email: "jessica.hanson@example.com",
+    status: true,
+  },
+  {
+    id: 2,
+    name: "Guy Hawkins",
+    lastName: "Guy Hawkins",
+    company: "IBM",
+    email: "bill.sanders@example.com",
+    status: false,
+  },
+  {
+    id: 3,
+    name: "Jenny ",
+    lastName: "Wilson",
+    company: "Gillette",
+    email: "georgia.young@example.com",
+    status: true,
+  },
+  {
+    id: 4,
+    name: "Robert ",
+    lastName: "Fox",
+    company: "Ferrari",
+    email: "sara.cruz@example.com",
+    status: false,
+  },
+  {
+    id: 5,
+    name: "Cody",
+    lastName: "Fisher",
+    company: "Starbucks",
+    email: "jackson.graham@example.com",
+    status: true,
+  },
+];
